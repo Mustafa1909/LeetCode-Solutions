@@ -8,6 +8,7 @@ I am solving problems pattern-wise to build strong problem-solving skills and im
 - Arrays
 - Two Pointers
 - Sliding Window
+- Matrix 
   ## Platforms
 - LeetCode
 ## Language Used

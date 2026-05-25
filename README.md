@@ -10,6 +10,7 @@ I am solving problems pattern-wise to build strong problem-solving skills and im
 - Sliding Window
 - Matrix
 - Binary Serach
+- Kaden's Algorthim
   ## Platforms
 - LeetCode
 ## Language Used

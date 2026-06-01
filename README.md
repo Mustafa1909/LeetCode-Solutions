@@ -12,7 +12,7 @@ I am solving problems pattern-wise to build strong problem-solving skills and im
 - Binary Serach
 - Kaden's Algorthim
 - Bit Manipulation
-- BackTracking
+- Sorting
   ## Platforms
 - LeetCode
 ## Language Used

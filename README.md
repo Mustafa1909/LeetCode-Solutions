@@ -6,6 +6,7 @@ I am solving problems pattern-wise to build strong problem-solving skills and im
 
 ## Topics Covered
 - Arrays
+- Strings
 - Two Pointers
 - Sliding Window
 - Matrix
